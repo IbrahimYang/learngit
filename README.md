@@ -1,8 +1,8 @@
-#learngit
+# learngit
 
 this is a project for learn git
 
-##anthor
+## anthor
 
 ibrahim, ph.D of  CBICR, Tsinghua University
 >China
@@ -10,3 +10,6 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 >>>Tsinghua University
 >>>>CBICR
 
+*gcc
+*g++
+*cmake
