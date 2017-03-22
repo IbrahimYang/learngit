@@ -10,6 +10,6 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 >>>Tsinghua University
 >>>>CBICR
 
-*gcc
-*g++
-*cmake
+* gcc
+* g++
+* cmake
