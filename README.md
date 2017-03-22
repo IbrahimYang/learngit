@@ -14,4 +14,5 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 * g++
 * cmake
 
-![](https://github.com/IbrahimYang/learngit/tree/master/image/screenshot.png)
+<img src="https://github.com/IbrahimYang/learngit/tree/master/image/screenshot.png"></img>
+![miku](https://github.com/IbrahimYang/learngit/tree/master/image/test_image.jpg)
