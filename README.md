@@ -16,4 +16,4 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 
 <img src="https://github.com/IbrahimYang/learngit/blob/master/image/screenshot.png?raw=true">
 <img src="https://github.com/IbrahimYang/learngit/blob/master/image/test_image.jpg?raw=true">
-![miku](https://github.com/IbrahimYang/learngit/tree/master/image/test_image.jpg)
+![miku](https://github.com/IbrahimYang/learngit/blob/master/image/test_image.jpg?raw=true)
