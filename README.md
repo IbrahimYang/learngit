@@ -14,4 +14,4 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 * g++
 * cmake
 
-![初音](https://github.com/IbrahimYang/learngit/tree/master/image/test_image.jpg "初音")
+![](https://github.com/IbrahimYang/learngit/tree/master/image/test_image.jpg)
