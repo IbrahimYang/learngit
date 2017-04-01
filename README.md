@@ -14,5 +14,7 @@ ibrahim, ph.D of  CBICR, Tsinghua University
 * g++
 * cmake
 
+test git in dell lab
+
 <img src="https://github.com/IbrahimYang/learngit/blob/master/image/test_image.jpg?raw=true">
 
